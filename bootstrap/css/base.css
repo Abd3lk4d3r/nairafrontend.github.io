@@ -1,0 +1,105 @@
+.dist-unit {
+margin-top:5%;
+
+}
+
+.row-bar .panel-footer {
+  background-color:#B63D32;
+  }
+
+  .navbar-nav, .navbar-nav a{
+   
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    float:none;
+	color : white;
+	font: normal normal normal 18px/1.4em museo-w01-700,serif;
+	}
+	
+	.navbar-nav a:hover{
+	color:green;
+	}
+	.icon-bar{
+	background-color:black;
+	}
+	
+	.list-inline a{
+	color : #64D299;
+	
+	}
+	
+	.li-right {
+	text-align: right;
+	}
+
+	
+	.container {
+
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+
+}
+
+
+p{
+display: block;
+  font-family: Verdana;
+  -moz-column-count: 1;
+  -moz-column-gap: 1em;
+  -webkit-column-count: 1;
+  -webkit-column-gap: 1em;
+  column-gap: 1em;
+  line-height: 1.5em;
+  color: rgb(69,54,37);
+}
+
+.text-limit {
+ border-top: 5px solid #5CCD85
+}
+
+.centered {
+  position: absolute; /* or absolute */
+  left: 50%;
+}
+
+.bs-medias {
+margin-top:2%;
+}
+
+.bs-end {
+  color: #FFCB05;
+background-color:rgba(60, 29, 23, 1);
+}
+
+.bs-end p {
+  color: #FE8500;
+}
+
+.bs-end hr{
+margin-top: 30px;
+ border-top: 3px solid #eee;
+}
+
+.bs-footer {
+background-color:#B63D32;
+border-top:1px solid #B63D32;
+}
+
+.bs-footer {
+color:#000;
+}
+
+.bs-footer  p {
+color : white;
+}
+
+
+
+
+
+
+@media screen and (min-width: 600px) {
+blockquote{
+padding-left: 100px;
+}
+}
